@@ -1,2 +1,2 @@
 # My-code-snippets
-Important and general solution to my coding issues / problems 
+Important and general solution to coding issues / problems 
